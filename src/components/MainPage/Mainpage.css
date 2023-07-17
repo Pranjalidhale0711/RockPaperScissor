@@ -1,0 +1,35 @@
+*
+{
+    margin:0;
+    padding: 0;
+}
+
+.mode
+{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+.initialmode
+{
+    color: white;
+    font-size: 5vw;
+    margin: 0;
+    padding: 0;
+    margin: 4vw;
+}
+.initialflex
+{
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    
+    height: 50vh;
+   
+}
+.first
+{
+    display: flex;
+    justify-content:center;
+}
